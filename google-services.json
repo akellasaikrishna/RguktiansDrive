@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "667057693854",
+    "firebase_url": "https://rguktiansdrive.firebaseio.com",
+    "project_id": "rguktiansdrive",
+    "storage_bucket": "rguktiansdrive.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:667057693854:android:a3c3f0f1c4a9be9c33c78f",
+        "android_client_info": {
+          "package_name": "com.rguktians.drive"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "667057693854-u5c3frbcpr8nva4dve9634q02g8crbjg.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.rguktians.drive",
+            "certificate_hash": "1eace8ff5c6b2ccd7953b19af521068647b69c5f"
+          }
+        },
+        {
+          "client_id": "667057693854-rkbid6lsgh0nuthoeufp77sraku8bnb0.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCN8eHJYQ-XmPUNDeQYCHB2pPIJQJSbJRI"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "667057693854-rkbid6lsgh0nuthoeufp77sraku8bnb0.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
